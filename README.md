@@ -1,2 +1,2 @@
-# EJ
+# Effective Java
 Effective Java
